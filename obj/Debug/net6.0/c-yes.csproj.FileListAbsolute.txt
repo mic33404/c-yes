@@ -1,0 +1,15 @@
+C:\Users\Michal\Documents\GitHub\c-yes\bin\Debug\net6.0\c-yes.exe
+C:\Users\Michal\Documents\GitHub\c-yes\bin\Debug\net6.0\c-yes.deps.json
+C:\Users\Michal\Documents\GitHub\c-yes\bin\Debug\net6.0\c-yes.runtimeconfig.json
+C:\Users\Michal\Documents\GitHub\c-yes\bin\Debug\net6.0\c-yes.dll
+C:\Users\Michal\Documents\GitHub\c-yes\bin\Debug\net6.0\c-yes.pdb
+C:\Users\Michal\Documents\GitHub\c-yes\obj\Debug\net6.0\c-yes.csproj.AssemblyReference.cache
+C:\Users\Michal\Documents\GitHub\c-yes\obj\Debug\net6.0\c-yes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michal\Documents\GitHub\c-yes\obj\Debug\net6.0\c-yes.AssemblyInfoInputs.cache
+C:\Users\Michal\Documents\GitHub\c-yes\obj\Debug\net6.0\c-yes.AssemblyInfo.cs
+C:\Users\Michal\Documents\GitHub\c-yes\obj\Debug\net6.0\c-yes.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Documents\GitHub\c-yes\obj\Debug\net6.0\c-yes.dll
+C:\Users\Michal\Documents\GitHub\c-yes\obj\Debug\net6.0\refint\c-yes.dll
+C:\Users\Michal\Documents\GitHub\c-yes\obj\Debug\net6.0\c-yes.pdb
+C:\Users\Michal\Documents\GitHub\c-yes\obj\Debug\net6.0\c-yes.genruntimeconfig.cache
+C:\Users\Michal\Documents\GitHub\c-yes\obj\Debug\net6.0\ref\c-yes.dll
